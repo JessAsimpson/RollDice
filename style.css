@@ -1,0 +1,29 @@
+body{
+    background: linear-gradient(to right, #ed2939, #f67280, #fdccd4);
+}
+
+.wrapper{
+    width: 70%;
+    margin: auto;
+    text-align: center;;
+}
+
+.h1{
+   margin: 20px; 
+   font-size: 6rem;
+   color: #9b1003;
+}
+.diceArea{
+    margin:0px 50px;
+    text-align: center;
+    display: inline-block;
+}
+p{
+    font-size:2rem;
+    color:#9b1003;
+    font-family: 'Playfair Display', serif;
+}
+img{
+    width: 320px;
+    
+}
